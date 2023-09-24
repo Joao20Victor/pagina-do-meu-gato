@@ -8,7 +8,7 @@ type Sectionprops = {
 }
 export default function Section(props:Sectionprops) {
   return(
-    <section className="flex justify-center items-center h-[80%] w-[80%] bg-P-yellow text-P-blue-300 rounded-xl" >
+    <section className="flex justify-center items-center h-[80%] w-[80%] bg-P-purple text-gray-950 rounded-xl " >
           <div className={props.className}>        
             <Image 
               className='rounded-xl'

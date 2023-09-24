@@ -18,9 +18,8 @@ const config: Config = {
         'imagem3': 'url(/Bruno/foto3.jpg)',  
       },
       colors: {
-        'P-yellow': '#DCD125',
-        'P-blue-300': '#5E25DB',
-        'P-blue-500': '#2C008F',
+        'P-blue': '#1E232E',
+        'P-purple': '#7A577A',
       },
     },
   },
